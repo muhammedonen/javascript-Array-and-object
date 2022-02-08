@@ -1,0 +1,10 @@
+#bb {
+  float: right;
+  border: 1px solid darkgrey;
+}
+li {
+  list-style: none;
+  border-bottom: 1px solid black;
+  width: 150px;
+  background-color: #d1d1d1;
+}
